@@ -1,4 +1,4 @@
-package com.sankethomeprojects.producer;
+package com.sankethomeprojects.receiver;
 
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
