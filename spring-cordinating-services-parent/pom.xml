@@ -42,5 +42,10 @@
 
 	<modules>
 		<module>eureka-server-poc</module>
+		<module>toll-rate-service</module>
+		<module>fast-pass-service</module>
+		<module>fast-pass-console</module>
+		<module>toll-rate-console</module>
+		<module>commons-project</module>
 	</modules>
 </project>
